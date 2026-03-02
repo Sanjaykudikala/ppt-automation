@@ -1,0 +1,19 @@
+[project]
+name = "ppt-automation"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain>=1.2.9",
+    "langchain-community>=0.4.1",
+    "langchain-core>=1.2.9",
+    "langchain-groq>=1.1.2",
+    "langgraph>=1.0.8",
+    "pydantic>=2.12.5",
+    "python-dotenv>=1.2.1",
+    "python-pptx>=1.0.2",
+    "pywin32>=311",
+    "streamlit>=1.54.0",
+    "typing-extensions>=4.15.0",
+]

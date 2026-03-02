@@ -1,0 +1,12 @@
+langgraph
+langchain
+langchain-core
+langchain-community
+langchain-groq
+pywin32
+streamlit
+python-pptx
+pydantic
+typing-extensions
+python-dotenv
+requests
