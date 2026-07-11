@@ -16,7 +16,7 @@ from src.content_inserter import insert_content_into_ppt
 logger = logging.getLogger(__name__)
 
 # Path to design system JSON (relative to project root)
-DESIGN_SYSTEM_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), "finalfinalppt.json")
+DESIGN_SYSTEM_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), "pptschema.json")
 
 
 def run_pipeline(

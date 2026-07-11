@@ -1,0 +1,16 @@
+.env
+.venv
+.git
+.gitignore
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+output/
+images/
+*.pptx
+*.ipynb
+uv.lock
