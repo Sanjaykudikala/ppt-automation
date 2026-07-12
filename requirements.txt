@@ -3,7 +3,6 @@ langchain
 langchain-core
 langchain-community
 langchain-groq
-pywin32
 streamlit
 python-pptx
 pydantic
